@@ -12,7 +12,6 @@ import os
 load_dotenv()
 
 ##load groq api
-os.environ['GROQ_API_KEY']=os.getenv('GROQ_API_KEY')
 
 
 
